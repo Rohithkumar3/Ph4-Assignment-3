@@ -1,0 +1,14 @@
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.exe
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.deps.json
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.runtimeconfig.json
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.dll
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\bin\Debug\net6.0\Assignment3.pdb
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.AssemblyInfo.cs
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.dll
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\obj\Debug\net6.0\refint\Assignment3.dll
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.pdb
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\obj\Debug\net6.0\Assignment3.genruntimeconfig.cache
+C:\Mphasis\Simplilearn-P4\Day-3\Assignment3\Assignment3\obj\Debug\net6.0\ref\Assignment3.dll
